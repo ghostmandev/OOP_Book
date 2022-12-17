@@ -11,7 +11,7 @@ class Book:
 class Book_IT(Book):
     pass
 
-book = Book('Python Programming', '25x30', 275, 300)
+book = Book('Python Programming', '25x30', 280, 300)
 
 b_it = Book_IT('Information Science', '25x32', 390, 250)
 
